@@ -1,2 +1,2 @@
 # pertanian
-Menghitung perbandingan setiap panen
+Menghitung perbandingan setiap panen dengan menggunakan tailwindcss
